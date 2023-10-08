@@ -13,9 +13,8 @@ Drop those features that are having high correlation among other features that a
 Features selection based on correlations.
 Apply features scaling on both training and testing features.
 Apply Regression techniques and compare the models.
-With applying correlations to select non-redundant features
-
-Linear Regression : 63.75
+With applying correlations to  select non-redundant features
+# -Linear Regression : 63.75
 
 # - CONCLUSION
 Predictive Power: If you have used linear regression to build a predictive model, the coefficient values for the independent variables can provide insights into which factors are most influential in predicting the dependent variable. Understanding these relationships can be valuable for making future predictions.
